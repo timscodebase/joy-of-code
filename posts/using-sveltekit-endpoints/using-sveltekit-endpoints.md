@@ -132,7 +132,7 @@ export async function load({ params }) {
 }
 ```
 
-```html:src/routes/[id]/+page.ts showLineNumbers
+```html:src/routes/[id]/+page.svelte showLineNumbers
 <script>
 	export let data
 </script>
